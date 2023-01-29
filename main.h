@@ -119,4 +119,3 @@ char *get_precision(char *s, params_t *params, va_list ap);
 int _printf(const char *format, ...);
 
 #endif /*_MAIN_H_*/
-
